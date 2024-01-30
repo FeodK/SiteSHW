@@ -89,6 +89,7 @@ img {
   align-content: center;
   flex-wrap: wrap;
   justify-content: center;
+  border: none;
 }
 
 .img_button {
@@ -145,6 +146,7 @@ img {
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+  border: none;
 }
 .center {
   padding-left: calc(50% - 573px);
